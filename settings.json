@@ -6,8 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "AlmightyPleckgateSMP.aternos.me",
-    "port": 54983,
+    "ip": "duohardcoreworld.aternos.me",
+    "port": 22034
+    ,
     "version": "1.20.1",
     "try-creative": false
   },
