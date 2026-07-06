@@ -1,15 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "AFK_Bot",
+    "username": "AFK_Bot_2",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "duohardcoreworld.aternos.me",
-    "port": 22034
-    ,
-    "version": "1.20.1",
+    "port": 22034,
+    "version": "1.26.2",
     "try-creative": false
   },
   "position": {
@@ -32,9 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        
         "hi"
-        
       ]
     },
     "chat-log": true,
