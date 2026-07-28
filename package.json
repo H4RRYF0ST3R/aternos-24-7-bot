@@ -12,7 +12,7 @@
   "dependencies": {
     "express": "^4.18.1",
     "minecraft-data": "^3.156.0",
-    "mineflayer": "^4.39.0",
+    "mineflayer": "^4.37.1",
     "mineflayer-pathfinder": "^2.4.0"
   }
 }
